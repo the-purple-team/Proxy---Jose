@@ -1,0 +1,93 @@
+.nav-opt-sprite{
+    background-color: #232f3e;
+    height: 100px;
+}
+/* header {
+    display: none !important;
+} */
+
+
+/* Hidde services items */
+/* .nav {
+    display: none
+} */
+
+.service-container {
+    display: flex;
+    flex-flow: row;
+    justify-content: flex-end;
+}
+.sivices {
+    display: flex;
+}
+h1 {
+    display: none
+}
+.sc-htoDjs .fmCzlV {
+    display: none
+}
+.fmCzlV {
+    display: none
+}
+.nav-subnav {
+    justify-content: space-between;
+    height: 50px;
+    background: #fff;
+    box-shadow: 0 0 1px #ddd;
+}
+
+.a-spacer-for-header {
+    justify-content: space-between;
+    height: 50px;
+    background: #fff;
+    box-shadow: 0 0 1px #ddd;
+}
+
+
+/* ***********Bruce********* */
+#app {
+    display: inline;
+    margin-top: 40px !important;
+    display: inline-flex;
+    float: left;
+    padding-left: 10px;
+}
+
+
+
+/* ?End Bruce */
+/* Brady's service */
+#photoapp {
+    margin-top: 40px;
+}
+
+#all-image-container {
+    margin-top: 60px !important;
+    width: 40% !important;
+    display: inline-flex
+}
+/* ////88************* */
+#pricing {
+    display: inline-block;
+    height: auto;
+    float: right;
+    margin-top: 40px;
+    padding-right: 20px;
+    word-wrap: break-word;
+}
+/* Footer */
+/* #navFooter {
+    margin: 30px 0 8px 0;
+    padding: 0 0 7px 0;
+    
+} */
+.navLeftFooter{
+    display: block;
+
+    background-color: #232F3E;
+    /* background-color: red; */
+    min-width: 1000px;
+    /* position: relative; */
+    height: 400px;
+}
+
